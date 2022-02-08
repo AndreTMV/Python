@@ -174,4 +174,3 @@ graficar_ondas_senoidales(frecuencia, voltaje_resistor,
                           angulo_resistor, "Voltaje en el resistor")
 graficar_ondas_senoidales(frecuencia, voltaje_capacitor,
                           angulo_capacitor, "Voltaje en el capacitor")
-

@@ -1,0 +1,11 @@
+When you have a time scale along the horizontal axis, the line plot is 
+your friend. But in many other cases, when you're trying to assess if
+there's a correlation between two variables, for example, the scatter 
+plot is the better choice
+
+Data visualization depend:
+data and the story you want to tell with it
+*There are many options for plots and customizatinos
+
+Dictionaries:
+keys have to be immutable objects
